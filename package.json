@@ -1,0 +1,21 @@
+{
+    "name": "briansoceanic",
+    "displayName": "BriansOceanic",
+    "description": "My custom color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BriansOceanic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BriansOceanic-color-theme.json"
+            }
+        ]
+    }
+}
